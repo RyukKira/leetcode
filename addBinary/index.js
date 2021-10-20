@@ -23,3 +23,16 @@ const addBinary = (a, b) => {
 };
 
 console.log(addBinary("1", "1"));
+
+let hi = "111";
+let lenHi = hi.length - 1;
+// console.log(
+// lenHi,
+// hi.length,
+// hi[lenHi--],
+// 0 + hi[lenHi--] - "0",
+// 0 + hi[lenHi--] - "1",
+// hi[lenHi--] + "1",
+// );
+
+console.log(1 - "0");
